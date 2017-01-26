@@ -1,0 +1,9 @@
+name: TigerSigns
+main: com.tigerhix.signs.plugin.SignsPlugin
+authors: [TigerHix]
+version: 1.0.0-Kotlin
+description: Place colorful signs.
+commands:
+   sign:
+      description: Main command.
+      usage: /<command>
